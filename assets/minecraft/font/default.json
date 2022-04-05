@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "thai.ttf",
+      "size": 15,
+      "shift": [0.0, 0.3],
+      "oversample": 12.0
+    }
+  ]
+}
