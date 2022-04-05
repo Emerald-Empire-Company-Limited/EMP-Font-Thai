@@ -3,7 +3,7 @@
     {
       "type": "ttf",
       "file": "thai.ttf",
-      "size": 15,
+      "size": 8.5,
       "shift": [0.0, 0.3],
       "oversample": 12.0
     }
