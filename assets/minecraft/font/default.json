@@ -4,7 +4,7 @@
       "type": "ttf",
       "file": "thai.ttf",
       "size": 8.5,
-      "shift": [0.0, 0.3],
+      "shift": [-0.4, 1.8],
       "oversample": 12.0
     }
   ]
